@@ -1,0 +1,7 @@
+target/
+.idea/libraries/
+.idea/misc.xml
+.idea/rebel_project.xml
+.idea/tasks.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml

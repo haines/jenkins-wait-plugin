@@ -1,0 +1,12 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+    <f:entry title="Prompt" field="prompt">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="Confirm button text" field="confirm">
+        <f:textbox />
+    </f:entry>
+    <f:entry title="Cancel button text" field="cancel">
+        <f:textbox />
+    </f:entry>
+</j:jelly>
